@@ -1,5 +1,5 @@
 import React from 'react'
-import 'Components/Services/Service.css';
+import './Service.css';
 import theme_pattern from '../../../public/assets/theme_pattern.svg';
 // import Services_Data from '../../services_data';
 import Services_Data from "../../services_data";
