@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Portfolio-Website
 =======
 # React + Vite
