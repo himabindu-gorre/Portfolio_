@@ -1,5 +1,5 @@
 import React from 'react'
-import 'Components/Hero/Hero.css';
+import './Hero.css';
 import profile_img from '../../../public/assets/bindu_logo.png';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
