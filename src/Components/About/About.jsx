@@ -1,5 +1,5 @@
 import React from 'react'
-import 'Components/About/About.css';
+import './About.css';
 import theme_pattern from '../../../public/assets/theme_pattern.svg';
 // import profile_img from '../../assets/image.jpeg';
 import img_profile from '../../../public/assets/image.jpeg';
