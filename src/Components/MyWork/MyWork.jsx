@@ -1,5 +1,5 @@
 import React from 'react'
-import 'Components/MyWork/MyWork.css';
+import './MyWork.css';
 import theme_pattern from '../../../public/assets/theme_pattern.svg';
 import mywork_data from '../../../public/assets/mywork_data';
 import arrow_icon from '../../../public/assets/arrow_icon.svg';
