@@ -1,6 +1,6 @@
 import React from 'react'
-import 'Components/Footer/Footer.css';
-import footer_logo from '../../../public/assets/footer_logo.svg';
+import './Footer.css';
+import logo from '../../../public/assets/main_logo.png';
 import user_icon from '../../../public/assets/user_icon.svg';
 
 const Footer = () => {
@@ -8,7 +8,7 @@ const Footer = () => {
     <div className='footer'>
       <div className="footer-top">
         <div className="footer-top-left">
-            <img src={footer_logo} alt="" />
+            <img src={logo}  alt='' style={{ width: "100px", height: "auto" }} />
             <p>I'm MERN Stack Developer as a Fresher</p>
         </div>
         <div className="footer-top-right">
