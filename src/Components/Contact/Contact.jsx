@@ -48,7 +48,7 @@ const Contact = () => {
                     <img  src={call_icon} alt="" /> <p>+91 6301698850</p>
                 </div>
                 <div className="contact-detail">
-                    <img src={location_icon} alt="" /> <p>Vijayawada</p>
+                    <img src={location_icon} alt="" /> <p>Vijayawada, Andhra Pradesh,India</p>
                 </div>
             </div>
         </div>
