@@ -3,7 +3,7 @@ import project2_img from './dashboard2.png'
 import project3_img from './dashboard3.png'
 import project4_img from './dashboard4.png'
 import project5_img from './dashboard5.png'
-import project6_img from './project_6.svg'
+import project6_img from './dashboard6.png'
 
 const mywork_data = [
     {
