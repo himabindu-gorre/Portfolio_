@@ -31,12 +31,21 @@
     transition: 0.4s;
     cursor: pointer;
 }
-.services-container {
+/* .services-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 80px;
     margin-bottom: 80px;
+} */
+
+.services-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 40px;
+    margin-bottom: 80px;
+    width: 100%;
 }
+
 .services-format h3 {
     font-size: 28px;
     font-weight: 600;
