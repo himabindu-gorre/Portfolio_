@@ -109,12 +109,26 @@
         width: 130px;
         right: -20px;
     }
-    .about-sections {
+/*     .about-sections {
         flex-direction: column;
     }
     .about-left {
         display: none;
+    } */
+    .about-sections {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
     }
+  .about-left {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  .about-left img {
+    width: 200px; /* or whatever size fits best */
+    border-radius: 10px;
+  }
     .about-para {
         font-size: 18px;
         line-height: 32px;
